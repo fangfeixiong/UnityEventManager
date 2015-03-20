@@ -118,7 +118,7 @@ public class DelegateEvent
     }
 
     /// <summary>
-    /// 移除监听函数
+    /// 添加监听函数
     /// </summary>
     /// <param name="addHandle"></param>
     public void addListener(EventHandler addHandle)
