@@ -36,5 +36,5 @@ unity C# 事件管理器
     }
     
 # Authors
-* PlayLive (新浪微博 @放飞吧小熊)
+* PlayLive [@放飞吧小熊](http://www.weibo.com/u/1677154562/)
 * @2015 [PlayLive](http://playlive.github.io/)
