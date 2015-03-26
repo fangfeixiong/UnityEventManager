@@ -35,3 +35,6 @@ unity C# 事件管理器
         EventManager.dispatchEvent(EventType.ClickBlock, "测试参数");
     }
     
+# Authors
+* PlayLive (新浪微博 @放飞吧小熊)
+* @2015 [PlayLive](http://playlive.github.io/)
